@@ -1,5 +1,5 @@
 # Morse-Code-Chat
-Morse code is a character-encoding scheme that allows operators to send messages using a series of electrical pulses represented as short or long pulses, dots, and dashes.
+Morse code is a character-encoding scheme that allows operators to send messages using a series of electrical pulses represented as short or long pulses, dots, and dashes. Here We will use the MQTT Server to create a Morse Code online Chat
 
 A-mqtt-publish1.py:This Python file represents our publisher, here we have a client named “MorseCode1” whom will connect to the broker www.mqtt-dashboard.com and this client will publish an encrypted message with the morse code to the topic “MorseCode”.
 
